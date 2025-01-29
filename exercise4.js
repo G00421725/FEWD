@@ -19,3 +19,4 @@ console.log(countChar(" Test 1 "));
 console.log(trimSpace(" Test 2 "));
 console.log(trimAndCount(" Test 1 ", true));
 console.log(trimAndCount(" Test 1 ", false));
+console.log(trimAndCount(" Test 1 "));
